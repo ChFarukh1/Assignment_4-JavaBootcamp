@@ -1,4 +1,4 @@
-public class Task1 {
+public class FactorialCalculator {
     public static int factorial(int n) {
         if (n == 0) {
             return 1;
@@ -13,4 +13,3 @@ public class Task1 {
         System.out.println("Factorial of " + number + " is: " + result);
     }
 }
-
